@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 128 128"
+   width="128"
+   height="128"
+   version="1.1"
+   id="svg16"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5">
+    <linearGradient
+       id="page"
+       x1="32"
+       y1="14"
+       x2="94"
+       y2="114"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#61aeae"
+         id="stop1" />
+      <stop
+         offset="0.55"
+         stop-color="#3E9C9C"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#2e7373"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="gloss"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#FFFFFF"
+         stop-opacity="0.18"
+         id="stop4" />
+      <stop
+         offset="0.55"
+         stop-color="#FFFFFF"
+         stop-opacity="0"
+         id="stop5" />
+    </linearGradient>
+  </defs>
+  <path
+     d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z"
+     transform="translate(0 3)"
+     fill="#211A10"
+     opacity="0.22"
+     id="path5" />
+  <path
+     d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z"
+     fill="url(#page)"
+     id="path6" />
+  <path
+     d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z"
+     fill="url(#gloss)"
+     id="path7" />
+  <path
+     d="M76 14 L94 34 H82 C78.7 34 76 31.3 76 28 Z"
+     fill="#255e5e"
+     id="path8" />
+  <path
+     d="M76 14 L94 34"
+     stroke="#FFFFFF"
+     stroke-opacity="0.22"
+     stroke-width="1.6"
+     id="path9" />
+  <path
+     d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z"
+     fill="none"
+     stroke="#FFFFFF"
+     stroke-opacity="0.16"
+     stroke-width="1.4"
+     id="path10" />
+  <g
+     transform="translate(64 66) scale(1.32) translate(-64 -66)"
+     id="g16">
+    <path
+       id="circle10"
+       style="fill:#fbf3e2"
+       d="M 58.4,54 A 5.4000001,5.4000001 0 0 1 53,59.4 5.4000001,5.4000001 0 0 1 47.6,54 5.4000001,5.4000001 0 0 1 53,48.6 5.4000001,5.4000001 0 0 1 58.4,54 Z" />
+    <path
+       id="circle11"
+       style="fill:#fbf3e2"
+       d="M 80.4,54 A 5.4000001,5.4000001 0 0 1 75,59.4 5.4000001,5.4000001 0 0 1 69.6,54 5.4000001,5.4000001 0 0 1 75,48.6 5.4000001,5.4000001 0 0 1 80.4,54 Z" />
+    <path
+       id="circle12"
+       style="fill:#fbf3e2"
+       d="M 79.5,68 A 15.5,15.5 0 0 1 64,83.5 15.5,15.5 0 0 1 48.5,68 15.5,15.5 0 0 1 64,52.5 15.5,15.5 0 0 1 79.5,68 Z" />
+    <path
+       id="ellipse12"
+       style="fill:#cdeae4"
+       d="M 73,74 A 9,6.4000001 0 0 1 64,80.4 9,6.4000001 0 0 1 55,74 9,6.4000001 0 0 1 64,67.6 9,6.4000001 0 0 1 73,74 Z" />
+    <path
+       id="circle13"
+       style="fill:#3e9c9c"
+       d="M 61.7,73 A 1.7,1.7 0 0 1 60,74.7 1.7,1.7 0 0 1 58.3,73 1.7,1.7 0 0 1 60,71.3 1.7,1.7 0 0 1 61.7,73 Z" />
+    <path
+       id="circle14"
+       style="fill:#3e9c9c"
+       d="M 69.7,73 A 1.7,1.7 0 0 1 68,74.7 1.7,1.7 0 0 1 66.3,73 1.7,1.7 0 0 1 68,71.3 1.7,1.7 0 0 1 69.7,73 Z" />
+    <path
+       id="circle15"
+       style="fill:#3e9c9c"
+       d="m 60,61 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
+    <path
+       id="circle16"
+       style="fill:#3e9c9c"
+       d="m 72,61 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+{
+  "name": "indie-icons",
+  "displayName": "Indie Icons",
+  "description": "Tema de iconos indie con más de 70 ilustraciones detalladas y una paleta cálida para el explorador de VS Code",
+  "version": "1.1.0",
+  "publisher": "MartinAlejandroOviedo",
+  "license": "MIT",
+  "icon": "icons/icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "icon theme",
+    "file icons",
+    "indie",
+    "illustrated",
+    "warm"
+  ],
+  "galleryBanner": {
+    "color": "#232136",
+    "theme": "dark"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "indie-icons",
+        "label": "Indie Icons",
+        "path": "./themes/indie-icons-theme.json"
+      }
+    ],
+    "themes": [
+      {
+        "label": "Indie Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/indie-dark-color-theme.json"
+      }
+    ]
+  }
+}

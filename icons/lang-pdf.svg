@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 128 128"
+   width="128"
+   height="128"
+   version="1.1"
+   id="svg10"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5">
+    <linearGradient
+       id="page"
+       x1="32"
+       y1="14"
+       x2="94"
+       y2="114"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#cb706d"
+         id="stop1" />
+      <stop
+         offset="0.55"
+         stop-color="#C0504D"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#8e3b39"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="gloss"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#FFFFFF"
+         stop-opacity="0.18"
+         id="stop4" />
+      <stop
+         offset="0.55"
+         stop-color="#FFFFFF"
+         stop-opacity="0"
+         id="stop5" />
+    </linearGradient>
+  </defs>
+  <path
+     d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z"
+     transform="translate(0 3)"
+     fill="#211A10"
+     opacity="0.22"
+     id="path5" />
+  <path
+     d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z"
+     fill="url(#page)"
+     id="path6" />
+  <path
+     d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z"
+     fill="url(#gloss)"
+     id="path7" />
+  <path
+     d="M76 14 L94 34 H82 C78.7 34 76 31.3 76 28 Z"
+     fill="#73302e"
+     id="path8" />
+  <path
+     d="M76 14 L94 34"
+     stroke="#FFFFFF"
+     stroke-opacity="0.22"
+     stroke-width="1.6"
+     id="path9" />
+  <path
+     d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z"
+     fill="none"
+     stroke="#FFFFFF"
+     stroke-opacity="0.16"
+     stroke-width="1.4"
+     id="path10" />
+  <path
+     d="m 46.652051,65.89813 v 6.271485 H 42.551465 V 53.964537 h 6.423828 q 6.880859,0 6.880859,5.801757 0,2.742188 -1.980468,4.44336 -1.967774,1.688476 -5.268555,1.688476 z m 0,-8.785156 v 5.674805 h 1.612304 q 3.275391,0 3.275391,-2.869141 0,-2.805664 -3.275391,-2.805664 z M 57.722168,72.169615 V 53.964537 h 6.449219 q 9.699218,0 9.699218,8.874023 0,4.25293 -2.65332,6.791992 -2.640625,2.539063 -7.045898,2.539063 z m 4.100586,-14.866211 v 11.540039 h 2.03125 q 2.666015,0 4.176758,-1.599609 1.523437,-1.59961 1.523437,-4.354493 0,-2.602539 -1.510742,-4.08789 -1.498047,-1.498047 -4.214844,-1.498047 z m 24.793751,0 h -6.423828 v 4.46875 h 5.903321 v 3.326172 h -5.903321 v 7.071289 H 76.092091 V 53.964537 h 10.524414 z"
+     id="text10"
+     style="font-weight:700;font-size:26px;font-family:'Segoe UI';letter-spacing:-0.8;dominant-baseline:central;text-anchor:middle;fill:#fbf3e2"
+     aria-label="PDF" />
+</svg>

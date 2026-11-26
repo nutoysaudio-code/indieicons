@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="folderBody" x1="14" y1="35" x2="114" y2="112" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F09068"/>
+      <stop offset="0.55" stop-color="#E0754C"/>
+      <stop offset="1" stop-color="#C25634"/>
+    </linearGradient>
+    <linearGradient id="folderBack" x1="14" y1="26" x2="64" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B9532F"/>
+      <stop offset="1" stop-color="#9A3F22"/>
+    </linearGradient>
+  </defs>
+
+  <ellipse cx="64" cy="114" rx="40" ry="6" fill="#1B2430" opacity="0.14"/>
+  <path d="M14 34 C14 29.6 17.6 26 22 26 H52 C54.2 26 56.3 26.9 57.8 28.5 L64 35 H14 Z" transform="translate(0 4)" fill="#2A1408" opacity="0.18"/>
+  <path d="M14 35 H114 V102 C114 107.5 109.5 112 104 112 H24 C18.5 112 14 107.5 14 102 Z" transform="translate(0 4)" fill="#2A1408" opacity="0.18"/>
+
+  <path d="M14 34 C14 29.6 17.6 26 22 26 H52 C54.2 26 56.3 26.9 57.8 28.5 L64 35 H14 Z" fill="url(#folderBack)"/>
+  <path d="M14 35 H114 V102 C114 107.5 109.5 112 104 112 H24 C18.5 112 14 107.5 14 102 Z" fill="url(#folderBody)"/>
+  <path d="M14 35 H114" stroke="#FFC4A8" stroke-width="2.5" opacity="0.55"/>
+  <path d="M16 37.5 H112" stroke="#8E3E22" stroke-width="1.5" opacity="0.25"/>
+  <path d="M21 48 C19 70 21 92 25 104" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" opacity="0.18" fill="none"/>
+</svg>

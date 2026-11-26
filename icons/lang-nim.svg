@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 128 128"
+   width="128"
+   height="128"
+   version="1.1"
+   id="svg10"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5">
+    <linearGradient
+       id="page"
+       x1="32"
+       y1="14"
+       x2="94"
+       y2="114"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#d3b34e"
+         id="stop1" />
+      <stop
+         offset="0.55"
+         stop-color="#C9A227"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#95781d"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="gloss"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#FFFFFF"
+         stop-opacity="0.18"
+         id="stop4" />
+      <stop
+         offset="0.55"
+         stop-color="#FFFFFF"
+         stop-opacity="0"
+         id="stop5" />
+    </linearGradient>
+  </defs>
+  <path
+     d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z"
+     transform="translate(0 3)"
+     fill="#211A10"
+     opacity="0.22"
+     id="path5" />
+  <path
+     d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z"
+     fill="url(#page)"
+     id="path6" />
+  <path
+     d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z"
+     fill="url(#gloss)"
+     id="path7" />
+  <path
+     d="M76 14 L94 34 H82 C78.7 34 76 31.3 76 28 Z"
+     fill="#796117"
+     id="path8" />
+  <path
+     d="M76 14 L94 34"
+     stroke="#FFFFFF"
+     stroke-opacity="0.22"
+     stroke-width="1.6"
+     id="path9" />
+  <path
+     d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z"
+     fill="none"
+     stroke="#FFFFFF"
+     stroke-opacity="0.16"
+     stroke-width="1.4"
+     id="path10" />
+  <path
+     d="M 76.597656,76.030177 H 70.230469 L 58.6875,58.432521 q -1.015625,-1.542969 -1.40625,-2.324219 h -0.07813 q 0.15625,1.484375 0.15625,4.53125 V 76.030177 H 51.402344 V 48.022365 h 6.796875 L 69.3125,65.073146 q 0.761719,1.152344 1.40625,2.285156 h 0.07813 q -0.15625,-0.976562 -0.15625,-3.847656 V 48.022365 h 5.957031 z"
+     id="text10"
+     style="font-weight:700;font-size:40px;font-family:'Segoe UI';letter-spacing:-0.5;dominant-baseline:central;text-anchor:middle;fill:#3b2a18"
+     aria-label="N" />
+</svg>

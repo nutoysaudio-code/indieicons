@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="leafBody" x1="28" y1="20" x2="102" y2="112" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B7D77C"/>
+      <stop offset="0.45" stop-color="#7FAE4C"/>
+      <stop offset="1" stop-color="#3F6B2C"/>
+    </linearGradient>
+    <linearGradient id="leafVein" x1="64" y1="26" x2="64" y2="104" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F2F7DC"/>
+      <stop offset="1" stop-color="#C9DE9C"/>
+    </linearGradient>
+    <radialGradient id="leafShine" cx="0.32" cy="0.22" r="0.75">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="leafShade" cx="0.72" cy="0.82" r="0.65">
+      <stop offset="0.45" stop-color="#1E3313" stop-opacity="0"/>
+      <stop offset="1" stop-color="#1E3313" stop-opacity="0.28"/>
+    </radialGradient>
+  </defs>
+
+  <path d="M64 10 C88 22 106 46 103 74 C100 98 84 113 64 115 C44 113 28 98 25 74 C22 46 40 22 64 10 Z" transform="translate(0 5)" fill="#16240D" opacity="0.22"/>
+  <path d="M64 104 C64 112 63 116 61 120" transform="translate(0 4)" stroke="#16240D" stroke-width="6" stroke-linecap="round" fill="none" opacity="0.18"/>
+
+  <path d="M64 10 C88 22 106 46 103 74 C100 98 84 113 64 115 C44 113 28 98 25 74 C22 46 40 22 64 10 Z" fill="url(#leafBody)"/>
+  <path d="M64 10 C88 22 106 46 103 74 C100 98 84 113 64 115 C44 113 28 98 25 74 C22 46 40 22 64 10 Z" fill="url(#leafShine)"/>
+  <path d="M64 10 C88 22 106 46 103 74 C100 98 84 113 64 115 C44 113 28 98 25 74 C22 46 40 22 64 10 Z" fill="url(#leafShade)"/>
+
+  <path d="M64 104 C64 112 63 116 61 120" stroke="#4C6B2F" stroke-width="6" stroke-linecap="round" fill="none"/>
+
+  <path d="M64 26 C64 52 64 78 64 104" stroke="url(#leafVein)" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <g stroke="url(#leafVein)" stroke-width="3" stroke-linecap="round" fill="none">
+    <path d="M64 42 C56 39 48 36 40 34"/>
+    <path d="M64 42 C72 39 80 36 88 34"/>
+    <path d="M64 58 C55 55 47 52 38 50"/>
+    <path d="M64 58 C73 55 81 52 90 50"/>
+    <path d="M64 74 C56 72 50 70 43 68"/>
+    <path d="M64 74 C72 72 78 70 85 68"/>
+  </g>
+
+  <g fill="#FFFFFF" opacity="0.10">
+    <circle cx="46" cy="58" r="2.2"/>
+    <circle cx="52" cy="86" r="1.8"/>
+    <circle cx="82" cy="60" r="2"/>
+    <circle cx="78" cy="90" r="1.6"/>
+    <circle cx="86" cy="78" r="1.4"/>
+    <circle cx="40" cy="72" r="1.5"/>
+  </g>
+
+  <path d="M31 62 C34 42 46 27 62 16" stroke="#E9F4C8" stroke-width="2.5" stroke-linecap="round" opacity="0.55" fill="none"/>
+</svg>

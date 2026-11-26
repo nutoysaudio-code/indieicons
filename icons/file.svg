@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="pageGrad" x1="32" y1="14" x2="94" y2="114" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FBF7EA"/>
+      <stop offset="0.7" stop-color="#F1E9D4"/>
+      <stop offset="1" stop-color="#E3D7BA"/>
+    </linearGradient>
+    <linearGradient id="stampGrad" x1="74" y1="90" x2="94" y2="108" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#EE8A64"/>
+      <stop offset="1" stop-color="#C25634"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z" transform="translate(0 4)" fill="#2A2416" opacity="0.20"/>
+
+  <path d="M38 14 H76 C78.7 14 81.2 15.4 82.6 17.7 L94 34 V108 C94 111.3 91.3 114 88 114 H38 C34.7 114 32 111.3 32 108 V20 C32 16.7 34.7 14 38 14 Z" fill="url(#pageGrad)"/>
+  <path d="M76 14 L94 34 H82 C78.7 34 76 31.3 76 28 Z" fill="#D9C9A4"/>
+  <path d="M76 14 L94 34" stroke="#C3B08A" stroke-width="1.5" opacity="0.7"/>
+
+  <g fill="#C2AE87">
+    <rect x="42" y="50" width="34" height="5" rx="2.5"/>
+    <rect x="42" y="62" width="42" height="5" rx="2.5"/>
+    <rect x="42" y="74" width="26" height="5" rx="2.5"/>
+  </g>
+
+  <circle cx="84" cy="97" r="9.5" fill="url(#stampGrad)"/>
+  <path d="M84 90.5 C88.5 92.5 90 97 88 100.5 C86.5 103 83 103.5 81.5 100.5 C79.5 97 81 92.5 84 90.5 Z" fill="#F8F1DF"/>
+  <path d="M84 101 V104.5" stroke="#F8F1DF" stroke-width="1.6" stroke-linecap="round"/>
+</svg>

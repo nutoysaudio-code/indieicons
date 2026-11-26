@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="noteTerra" x1="36" y1="30" x2="108" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#EE8A64"/>
+      <stop offset="0.55" stop-color="#D96A47"/>
+      <stop offset="1" stop-color="#B74A30"/>
+    </linearGradient>
+    <linearGradient id="noteGold" x1="50" y1="24" x2="106" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F6D88A"/>
+      <stop offset="1" stop-color="#E2AC4F"/>
+    </linearGradient>
+  </defs>
+
+  <ellipse cx="64" cy="114" rx="30" ry="5" fill="#1B2430" opacity="0.14"/>
+
+  <g transform="rotate(-7 64 64)" fill="#2A1408" opacity="0.18">
+    <ellipse cx="46" cy="100" rx="13.5" ry="9.5" transform="rotate(-22 46 100)"/>
+    <ellipse cx="96" cy="92" rx="13.5" ry="9.5" transform="rotate(-22 96 92)"/>
+    <path d="M57 96 V44" stroke="#2A1408" stroke-width="7" stroke-linecap="round"/>
+    <path d="M107 88 V36" stroke="#2A1408" stroke-width="7" stroke-linecap="round"/>
+    <path d="M55 44 L105 36" stroke="#2A1408" stroke-width="14" stroke-linecap="round"/>
+  </g>
+
+  <g transform="rotate(-7 64 64)">
+    <ellipse cx="44" cy="96" rx="13.5" ry="9.5" transform="rotate(-22 44 96)" fill="url(#noteTerra)"/>
+    <ellipse cx="40" cy="93" rx="4.5" ry="2.6" transform="rotate(-22 40 93)" fill="#FFD9C4" opacity="0.35"/>
+    <ellipse cx="94" cy="88" rx="13.5" ry="9.5" transform="rotate(-22 94 88)" fill="url(#noteTerra)"/>
+    <ellipse cx="90" cy="85" rx="4.5" ry="2.6" transform="rotate(-22 90 85)" fill="#FFD9C4" opacity="0.35"/>
+
+    <path d="M55 92 V40" stroke="url(#noteTerra)" stroke-width="7" stroke-linecap="round"/>
+    <path d="M105 84 V32" stroke="url(#noteTerra)" stroke-width="7" stroke-linecap="round"/>
+    <path d="M53 40 L103 32" stroke="url(#noteGold)" stroke-width="14" stroke-linecap="round"/>
+
+    <path d="M30 32 L33 39 L40 42 L33 45 L30 52 L27 45 L20 42 L27 39 Z" fill="#F4F1DE" opacity="0.9"/>
+    <path d="M106 18 l2.5 5.5 5.5 2.5 -5.5 2.5 -2.5 5.5 -2.5 -5.5 -5.5 -2.5 5.5 -2.5 Z" fill="#F4F1DE" opacity="0.65"/>
+  </g>
+</svg>
