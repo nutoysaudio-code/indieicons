@@ -5,6 +5,14 @@
   "version": "1.1.0",
   "publisher": "MartinAlejandroOviedo",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nutoysaudio-code/indieicons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nutoysaudio-code/indieicons/issues"
+  },
+  "homepage": "https://github.com/nutoysaudio-code/indieicons#readme",
   "icon": "icons/icon.png",
   "engines": {
     "vscode": "^1.74.0"
